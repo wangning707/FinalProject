@@ -1,0 +1,145 @@
+//测试用数据结构
+{
+    "block":{
+        "serialVersionUID": "1L",
+        "preHashCode": "0000000000000000001bb6c397c107e0df576fdc06ee8ced3dd40b58e9a2feec",
+        "hashCode": "0000000000000000001bb6c397c107e0df576fdc06ee8ced3dd40b58e9a2feec",
+        "merkleRootHash": "0000000000000000001bb6c397c107e0df576fdc06ee8ced3dd40b58e9a2feec",
+        "timeStamp": "4 分钟前",
+        "nBits": "5",
+        "nonce": "12108021850175921840",
+        "BlockBody":{
+            "serialVersionUID": "-9157..L",
+            "transactions": [{
+                "serialVersionUID": "-3942888..L",
+                "txid": "000051421o175912kt1",
+                "hash": "000051421o175912kt1afaf14214512",
+                "Vin": [{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                },{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                },{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                },{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                }],
+                "Vout": [{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                },{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                },{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                },{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                }],
+                "timeStamp": "2019-04-11 16:32:23",
+                "isCoinBase": ""
+            },
+            {
+                "serialVersionUID": "-3942888..L",
+                "txid": "000051421o175912kt1",
+                "hash": "000051421o175912kt1afaf14214512",
+                "Vin": [{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                }],
+                "Vout": [{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                }],
+                "timeStamp": "2019-04-11 16:32:23",
+                "isCoinBase": ""
+            },{
+                "serialVersionUID": "-3942888..L",
+                "txid": "000051421o175912kt1",
+                "hash": "000051421o175912kt1afaf14214512",
+                "Vin": [{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                }],
+                "Vout": [{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                }],
+                "timeStamp": "2019-04-11 16:32:23",
+                "isCoinBase": ""
+            },{
+                "serialVersionUID": "-3942888..L",
+                "txid": "000051421o175912kt1",
+                "hash": "000051421o175912kt1afaf14214512",
+                "Vin": [{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                }],
+                "Vout": [{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                }],
+                "timeStamp": "2019-04-11 16:32:23",
+                "isCoinBase": ""
+            },{
+                "serialVersionUID": "-3942888..L",
+                "txid": "000051421o175912kt1",
+                "hash": "000051421o175912kt1afaf14214512",
+                "Vin": [{
+                    "serialVersionUID":"4259..L",
+                    "txid": "sth",
+                    "voutNum": "sth",
+                    "signature": "sth",
+                    "publickey":"sth"
+                }],
+                "Vout": [{
+                    "serialVersionUID": "-434246..L",
+                    "value": "sth",
+                    "seqNm": "sth",
+                    "pubHash": "sth"
+                }],
+                "timeStamp": "2019-04-11 16:32:23",
+                "isCoinBase": ""
+            }]
+        }
+    }
+}

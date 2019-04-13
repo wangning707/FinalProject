@@ -1,0 +1,35 @@
+// {
+//     "block":{
+//         "serialVersionUID": "1L",
+//         "preHashCode": "something", //前一个块的哈希
+//         "hashCode": "something", //块哈希
+//         "merkleRootHash": "something", //根哈希值
+//         "timeStamp": "sth", //时间戳
+//         "nBits": "sth", //难度值
+//         "nonce": "sth", //随机数，用它来满足难度，前面0的数目通过改变nonce的值来调整块的哈希值，难度为3就是前面3个0
+//         "BlockBody":{
+//             "serialVersionUID": "-9157..L",
+//             "transactions":[{
+//                 "serialVersionUID": "-3942888..L", 
+//                 "txid": "sth",
+//                 "hash": "vin",
+//                 "Vin": [{ //输入钱数，记录的你钱的来源，证明你可以花这笔钱
+//                     "serialVersionUID":"4259..L",
+//                     "txid": "sth", //钱是来自于哪个交易
+//                     "voutNum": "sth", //钱是来自于哪个输出
+//                     "signature": "sth", //自己的私钥签名
+//                     "publickey":"sth" 
+//                 }],
+//                 "Vout": [{ //填写我的地址，多少钱，
+//                     "serialVersionUID": "-434246..L",
+//                     "value": "sth", //这笔输出的钱
+//                     "seqNm": "sth", //vout的number
+//                     "pubHash": "sth" 
+//                 }],
+//                 "timeStamp": "sth",
+//                 "isCoinBase": "sth"
+//             }]
+//         }
+
+//     }
+// }
